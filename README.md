@@ -1,2 +1,3 @@
 # Movie-Recommendation-System
-Project- EDA-1
+
+This repository contains all the codes and files created during the project
